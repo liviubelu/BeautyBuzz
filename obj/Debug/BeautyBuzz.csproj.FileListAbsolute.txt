@@ -1,0 +1,10 @@
+C:\Users\brj\source\repos\BeautyBuzz\BeautyBuzz\bin\Debug\BeautyBuzz.exe.config
+C:\Users\brj\source\repos\BeautyBuzz\BeautyBuzz\bin\Debug\BeautyBuzz.exe
+C:\Users\brj\source\repos\BeautyBuzz\BeautyBuzz\bin\Debug\BeautyBuzz.pdb
+C:\Users\brj\source\repos\BeautyBuzz\BeautyBuzz\obj\Debug\BeautyBuzz.csproj.AssemblyReference.cache
+C:\Users\brj\source\repos\BeautyBuzz\BeautyBuzz\obj\Debug\BeautyBuzz.Form1.resources
+C:\Users\brj\source\repos\BeautyBuzz\BeautyBuzz\obj\Debug\BeautyBuzz.Properties.Resources.resources
+C:\Users\brj\source\repos\BeautyBuzz\BeautyBuzz\obj\Debug\BeautyBuzz.csproj.GenerateResource.cache
+C:\Users\brj\source\repos\BeautyBuzz\BeautyBuzz\obj\Debug\BeautyBuzz.csproj.CoreCompileInputs.cache
+C:\Users\brj\source\repos\BeautyBuzz\BeautyBuzz\obj\Debug\BeautyBuzz.exe
+C:\Users\brj\source\repos\BeautyBuzz\BeautyBuzz\obj\Debug\BeautyBuzz.pdb
